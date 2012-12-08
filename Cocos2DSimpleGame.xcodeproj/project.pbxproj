@@ -1129,6 +1129,7 @@
 				GCC_PREFIX_HEADER = Cocos2DSimpleGame/Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"Cocos2DSimpleGame/libs/kazmath/include\"";
 				INFOPLIST_FILE = Cocos2DSimpleGame/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-ObjC",
@@ -1147,6 +1148,7 @@
 				GCC_PREFIX_HEADER = Cocos2DSimpleGame/Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"Cocos2DSimpleGame/libs/kazmath/include\"";
 				INFOPLIST_FILE = Cocos2DSimpleGame/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-ObjC",
@@ -1176,6 +1178,7 @@
 				3F9674E9166C9C4D008DFF50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
