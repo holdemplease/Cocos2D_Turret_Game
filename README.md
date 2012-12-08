@@ -1,4 +1,4 @@
-dravvo-iostest
+Cocos2D Turret Game
 ==============
 
-test interface for client front end
+test game on cocos2D
