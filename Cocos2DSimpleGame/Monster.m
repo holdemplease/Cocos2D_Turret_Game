@@ -36,7 +36,7 @@
 
 - (id)init
 {
-    if((self = [super initWithFile:@"monster.png" hp:1 minMoveDuration:3 maxMoveDuration:5]))
+    if((self = [super initWithFile:@"Monster.png" hp:1 minMoveDuration:3 maxMoveDuration:5]))
     {
         // nothin', just need to initialize the member variables
     }
